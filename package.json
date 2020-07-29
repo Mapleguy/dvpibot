@@ -1,0 +1,10 @@
+{
+  "name": "∆vπ Role Bot",
+  "version": "1.0.0",
+  "description": "Manages role generation for ∆vπ",
+  "main": "bot.js",
+  "author": "Griffin Brown",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
